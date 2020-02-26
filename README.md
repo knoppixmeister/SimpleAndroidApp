@@ -4,3 +4,5 @@ Very basic and simple android app (written in Java) built without Gradle support
 To build app run "build && pack" (without ...). Result APK will be placed in build/debug.apk
 
 Enjoy!
+
+Inspired by: https://github.com/HemanthJabalpuri/AndroidExplorer
