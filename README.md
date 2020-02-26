@@ -1,2 +1,2 @@
 # SimpleAndroidApp
-Very basic and simple android app (in Java) built not by Gradle
+Very basic and simple android app (in Java) built without Gradle support. It's build by AAPT2, D8 utilities
