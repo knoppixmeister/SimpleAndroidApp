@@ -5,4 +5,4 @@ To build app run "build && pack" (without quotes). Result APK will be placed in 
 
 Enjoy!
 
-Inspired by: https://github.com/HemanthJabalpuri/AndroidExplorer
+Inspired by: https://github.com/HemanthJabalpuri/AndroidExplorer and https://geosoft.no/development/android.html
